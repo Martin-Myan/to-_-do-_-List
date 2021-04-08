@@ -35,7 +35,7 @@ const App = () => {
       deleteClick={() => deleteCLickHandler(item.id)}
     />
   ));
-  console.log(globalArray);
+
   return (
     <div className="container">
       <div>
